@@ -4,13 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Aryane+Machado!;I+am+23+years+old!;I+am+majoring+in+Information+Systems!;Be+Welcome!+%3A%29)](https://github.com/DenverCoder1/readme-typing-svg)
 
-## ⚡ GitHub Stats:
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AryaneMachado&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de AryaneMachado" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaneMachado&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas por AryaneMachado" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaneMachado&bg_color=1a1a1a&color=ebf5ee&line=9e4c98&point=ebf5ee&area=true&hide_border=true" alt="Gráfico de atividade de AryaneMachado" />
 </div>
