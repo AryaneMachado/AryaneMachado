@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Aryane+Machado!;I+am+23+years+old!;I+am+majoring+in+Information+Systems!;Be+Welcome!+%3A%29)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaneMachado&bg_color=1a1a1a&color=ebf5ee&line=9e4c98&point=ebf5ee&area=true&hide_border=true" alt="Gráfico de atividade de AryaneMachado" />
-</div>
 
 ## 🖥️ Linguagens/Languages:
 
